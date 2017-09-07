@@ -1,2 +1,2 @@
-# 2017-09-06_Bioinformatics_PSM_ex
+# September 6th, 2017 Demo Repository for USFCA PSM Bioinformatics class
 Demo Repository for USF PSM Bioinformatics class
